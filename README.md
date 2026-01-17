@@ -1,10 +1,86 @@
 # net-repos
-Repositories worth sharing.
 
-https://github.com/networktocode/ntc-templates
+A curated collection of network/DevOps projects worth your attention.
 
-## Latency monitor
-Article https://mirceaulinic.net/2026-01-15-latency-monitor/
-Architecture https://lm.mirceaulinic.net/en/latest/arch/
-Grafana http://dash.mirceaulinic.net:3000/public-dashboards/858e54dfad8141868a602b22bd8b7138
-Repo https://github.com/mirceaulinic/latency-monitor
+**Rule:** Only projects I've tested myself or plan to use.
+
+---
+
+## Table of Contents
+
+- [Automation](#automation)
+- [Monitoring](#monitoring)
+- [Templates & Parsing](#templates--parsing)
+- [Security](#security)
+
+---
+
+## Automation
+
+> Network automation tools: Ansible, Nornir, Netmiko, NAPALM...
+
+_No entries yet — add the first one!_
+
+<!-- TEMPLATE:
+### [Project Name](link)
+**Stars:** X | **Last update:** YYYY-MM
+**What it does:** One sentence description
+**Why it's worth it:** Your opinion / use case
+-->
+
+---
+
+## Monitoring
+
+> Network monitoring: Grafana, Prometheus, LibreNMS, Netbox...
+
+### [latency-monitor](https://github.com/mirceaulinic/latency-monitor)
+**Author:** Mircea Ulinic | **Last update:** 2026-01
+**What it does:** Latency monitoring system with Grafana dashboard
+**Why it's worth it:** Complete project with architecture docs, code, and live demo
+**Links:**
+- [Article](https://mirceaulinic.net/2026-01-15-latency-monitor/)
+- [Architecture](https://lm.mirceaulinic.net/en/latest/arch/)
+- [Live Grafana](http://dash.mirceaulinic.net:3000/public-dashboards/858e54dfad8141868a602b22bd8b7138)
+
+---
+
+## Templates & Parsing
+
+> Templates and parsers: ntc-templates, TextFSM, TTP...
+
+### [ntc-templates](https://github.com/networktocode/ntc-templates)
+**Author:** Network to Code | **Stars:** 1.5k+
+**What it does:** Collection of TextFSM templates for parsing CLI output
+**Why it's worth it:** Industry standard, huge template library for Cisco, Arista, Juniper and more
+
+---
+
+## Security
+
+> Network security: CVE tools, hardening, compliance...
+
+_No entries yet — add the first one!_
+
+---
+
+## How to add a project
+
+1. Choose the right category
+2. Use this template:
+
+```markdown
+### [Project Name](link)
+**Author:** X | **Stars:** X | **Last update:** YYYY-MM
+**What it does:** One sentence description
+**Why it's worth it:** Your opinion / use case
+**Links:** (optional)
+- [Documentation](link)
+- [Demo](link)
+```
+
+3. Commit with a description of what you're adding
+
+---
+
+_Last updated: 2026-01-17_
