@@ -11,6 +11,7 @@ A curated collection of network/DevOps projects worth your attention.
 - [Automation](#automation)
 - [Monitoring](#monitoring)
 - [Templates & Parsing](#templates--parsing)
+- [Utilities](#utilities)
 - [Security](#security)
 
 ---
@@ -56,6 +57,19 @@ _No entries yet — add the first one!_
 
 ---
 
+## Utilities
+
+> Network utilities: calculators, converters, helpers...
+
+### [ipcalc](https://github.com/kjokjo/ipcalc)
+**Author:** Krischan Jodies | **Language:** Perl/CGI
+**What it does:** IP subnet calculator — CIDR, netmask, broadcast, host range
+**Why it's worth it:** Classic tool, simple and effective. Inspiration for NetDevOps Micro-Tools subnet calc.
+**Links:**
+- [Live Demo](https://jodies.de/ipcalc)
+
+---
+
 ## Security
 
 > Network security: CVE tools, hardening, compliance...
@@ -83,4 +97,4 @@ _No entries yet — add the first one!_
 
 ---
 
-_Last updated: 2026-01-17_
+_Last updated: 2026-01-18_
