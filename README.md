@@ -9,6 +9,7 @@ A curated collection of network/DevOps projects worth your attention.
 ## Table of Contents
 
 - [Automation](#automation)
+- [Diagnostics](#diagnostics)
 - [Monitoring](#monitoring)
 - [Templates & Parsing](#templates--parsing)
 - [Utilities](#utilities)
@@ -28,6 +29,26 @@ _No entries yet — add the first one!_
 **What it does:** One sentence description
 **Why it's worth it:** Your opinion / use case
 -->
+
+---
+
+## Diagnostics
+
+> Network diagnostic tools: traceroute, path analysis, troubleshooting...
+
+### [ttl](https://github.com/lance0/ttl)
+**Author:** lance0 | **Language:** Rust
+**What it does:** Advanced network diagnostic tool — "traceroute on steroids" with continuous monitoring and real-time visualization
+**Why it's worth it:** Goes beyond traditional traceroute with features like:
+- Path MTU discovery
+- NAT device identification
+- Route instability detection & flap alerting
+- IX identification via PeeringDB
+- MPLS label parsing
+- Multi-flow ECMP path enumeration
+- ASN, GeoIP, reverse DNS enrichment
+**Links:**
+- [Crates.io](https://crates.io/crates/ttl)
 
 ---
 
@@ -97,4 +118,4 @@ _No entries yet — add the first one!_
 
 ---
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-01-19_
