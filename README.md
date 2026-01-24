@@ -14,6 +14,7 @@ A curated collection of network/DevOps projects worth your attention.
 - [Templates & Parsing](#templates--parsing)
 - [Utilities](#utilities)
 - [Security](#security)
+- [AI Tools](#ai-tools)
 
 ---
 
@@ -99,6 +100,17 @@ _No entries yet — add the first one!_
 
 ---
 
+## AI Tools
+
+> Tools for AI-assisted development and Claude Code workflow
+
+### [ccusage](https://github.com/ryoppippi/ccusage)
+**Author:** ryoppippi | **Language:** TypeScript
+**What it does:** CLI tool to track Claude Code API usage and costs
+**Why it's worth it:** Essential for monitoring Claude Code spending — shows tokens, costs, and usage history per session/day/month
+
+---
+
 ## How to add a project
 
 1. Choose the right category
@@ -118,4 +130,4 @@ _No entries yet — add the first one!_
 
 ---
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-01-24_
