@@ -108,6 +108,7 @@ _No entries yet — add the first one!_
 **Author:** ryoppippi | **Language:** TypeScript
 **What it does:** CLI tool to track Claude Code API usage and costs
 **Why it's worth it:** Essential for monitoring Claude Code spending — shows tokens, costs, and usage history per session/day/month
+**Best command:** `ccusage monthly --compact` — clean monthly summary
 
 ---
 
