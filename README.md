@@ -110,6 +110,13 @@ _No entries yet — add the first one!_
 **Why it's worth it:** Essential for monitoring Claude Code spending — shows tokens, costs, and usage history per session/day/month
 **Best command:** `ccusage monthly --compact` — clean monthly summary
 
+### [skills.sh](https://skills.sh/)
+**What it does:** Open Agent Skills Ecosystem — marketplace i registry dla AI agent skills
+**Why it's worth it:** Jak npm ale dla AI agentów (Claude Code, Cursor, Copilot, Gemini). Instalujesz skill jedną komendą `npx skills add <owner/repo>` i rozszerzasz możliwości agenta.
+**Top skills:** React best practices, TypeScript patterns, SEO audits, Stripe integration
+**Links:**
+- [Browse Skills](https://skills.sh/)
+
 ---
 
 ## How to add a project
